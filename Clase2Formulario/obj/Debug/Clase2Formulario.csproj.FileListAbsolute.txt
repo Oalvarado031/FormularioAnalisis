@@ -1,0 +1,14 @@
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\bin\Debug\Clase2Formulario.exe.config
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\bin\Debug\Clase2Formulario.exe
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\bin\Debug\Clase2Formulario.pdb
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\bin\Debug\MetroFramework.Design.dll
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\bin\Debug\MetroFramework.dll
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\obj\Debug\Clase2Formulario.csproj.AssemblyReference.cache
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\obj\Debug\Clase2Formulario.Form1.resources
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\obj\Debug\Clase2Formulario.Properties.Resources.resources
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\obj\Debug\Clase2Formulario.csproj.GenerateResource.cache
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\obj\Debug\Clase2Formulario.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\obj\Debug\Clase2Fo.BA4D814F.Up2Date
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\obj\Debug\Clase2Formulario.exe
+C:\Users\labc205\Documents\Visual Studio 2022\Clase2Formulario\obj\Debug\Clase2Formulario.pdb
